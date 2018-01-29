@@ -1,0 +1,111 @@
+.corpoformexp {
+    background: #3d72bd;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+    padding: 50px 20px;
+    box-shadow: 2px 1px 10px #000;
+    color: #fff;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 700;
+    font-family: arial;
+    line-height: 30px;
+}
+
+.field1 {
+    width: 260px;
+    background: #3261a5;
+    text-align: center;
+    padding: 10px;
+    display: block;
+    font-family: arial;
+    color: #fdfdfd;
+    margin: 10px;
+    text-transform: uppercase;
+    font-size: 11px;
+    top: -10px;
+    left: 0px;
+    position: relative;
+}
+
+.field2 {
+    width: 260px;
+    background: #3261a5;
+    text-align: center;
+    padding: 10px;
+    display: block;
+    font-family: arial;
+    color: #fff;
+    margin: 10px;
+    text-transform: uppercase;
+    font-size: 11px;
+    top: -17px;
+    left: 0px;
+    position: relative;
+}
+
+.field3 {
+    background: #c24b4b;
+    text-align: center;
+    padding: 21px;
+    display: block;
+    font-family: arial;
+    color: #fff;
+    margin: 10px;
+    text-transform: uppercase;
+    font-size: 11px;
+    top: -278px;
+    left: 296px;
+    position: relative;
+    width: 253px;
+	border-top-right-radius: 50px;
+}
+
+.field4 {
+    background: #c2a84b;
+    text-align: center;
+    padding: 21px;
+    display: block;
+    font-family: arial;
+    color: #fff;
+    margin: 10px;
+    text-transform: uppercase;
+    font-size: 11px;
+    top: -325px;
+    left: 296px;
+    position: relative;
+    width: 253px;
+	border-bottom-left-radius: 50px;
+}
+
+.logprinc {
+    text-align: right;
+    padding: 20px 14px;
+    display: block;
+    font-family: arial;
+    color: #fefeff;
+    margin: 10px;
+    text-transform: uppercase;
+    font-size: 11px;
+    top: -314px;
+    left: 0px;
+    position: relative;
+    width: 252px;
+    background: #244677;
+}
+
+.butto input {
+    background: white;
+    position: relative;
+    top: -426px;
+    width: 100;
+    margin: 10px;
+    left: 160px;
+    height: 100;
+    border-radius: 100%;
+    box-shadow: 1px 1px 5px #000;
+    border: 2px solid #223455;
+}
